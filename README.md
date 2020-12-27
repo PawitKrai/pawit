@@ -54,6 +54,6 @@ student2.ShowEXP()
 ```
 
 พัฒนาโดย: Pawit Kraisornnukhor
-FB: https://www.facebook.com/UncleEngineer
+FB: https://www.facebook.com/jamecdtz.pawit
 
 
